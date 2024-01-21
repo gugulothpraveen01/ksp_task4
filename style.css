@@ -1,0 +1,35 @@
+.cse1{
+    text-align: center;
+    color:black;
+}
+.cse{
+    color: aqua;
+    font-size: 20px;
+    font-family: cursive;
+}
+.it{
+    color: blue;
+    font-style: italic;
+    font-family: monospace;
+}
+#sample1{
+    color: green;
+
+}
+#sample2{
+    color: black;
+}
+h1{
+    color: rgb(red, green, blue);
+}
+form{
+     color: black;
+     background-color:orange;
+}
+
+P{
+    margin: 40px 60px 80px 100px;
+    padding: 40px 60 px 80px 100px;
+    border:5px solid black ;
+    background-color: green;
+}
